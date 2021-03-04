@@ -12,6 +12,9 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -24,11 +27,8 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <NuGetPackageImportStamp>
-    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>icon.ico</ApplicationIcon>
@@ -210,14 +210,11 @@
     <None Include="Resources\Covenants.txt" />
     <None Include="Resources\Physiques.txt" />
     <None Include="Resources\Sexes.txt" />
-    <Content Include="Resources\Items\MysteryWeapons.txt" />
     <Content Include="Resources\Items\RangedWeapons.txt" />
     <Content Include="Resources\Items\Shields.txt" />
     <Content Include="Resources\Items\SpellTools.txt" />
     <None Include="Resources\Items\KeyItems.txt" />
     <None Include="Resources\Items\Armor.txt" />
-    <None Include="Resources\Items\MysteryArmor.txt" />
-    <None Include="Resources\Items\MysteryGoods.txt" />
     <None Include="Resources\Items\Spells.txt" />
     <None Include="Resources\Items\UpgradeMaterials.txt" />
     <None Include="Resources\Items\UsableItems.txt" />
@@ -239,7 +236,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\PropertyHook\PropertyHook\PropertyHook.csproj">
-      <Project>{18EFF8D2-C4D5-4E18-9A31-38E106BA1CF7}</Project>
+      <Project>{18eff8d2-c4d5-4e18-9a31-38e106ba1cf7}</Project>
       <Name>PropertyHook</Name>
     </ProjectReference>
   </ItemGroup>

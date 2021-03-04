@@ -51,14 +51,14 @@ namespace DS_Gadget
         private async void MainForm_Load(object sender, EventArgs e)
         {
             Location = settings.WindowLocation;
-            Text = "DS Gadget " + System.Windows.Forms.Application.ProductVersion;
+            Text = "DS-Gadget for Remastest";
             EnableTabs(false);
             InitAllTabs();
 
-            GitHubClient gitHubClient = new GitHubClient(new ProductHeaderValue("DS-Gadget"));
+            GitHubClient gitHubClient = new GitHubClient(new ProductHeaderValue("DS-Gadget-for-Remastest"));
             try
             {
-                Release release = await gitHubClient.Repository.Release.GetLatest("JKAnderson", "DS-Gadget");
+                Release release = await gitHubClient.Repository.Release.GetLatest("Stagmattica", "DS-Gadget-for-Remastest");
                 if (SemVersion.Parse(release.TagName) > System.Windows.Forms.Application.ProductVersion)
                 {
                     labelCheckVersion.Visible = false;

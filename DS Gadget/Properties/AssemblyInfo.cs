@@ -5,8 +5,8 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DS Gadget")]
-[assembly: AssemblyDescription("A multi-purpose testing tool for Dark Souls: Prepare to Die Edition.")]
+[assembly: AssemblyTitle("DS-Gadget for Remastest")]
+[assembly: AssemblyDescription("A multi-purpose testing tool for Dark Souls: Prepare to Die Edition. Specific changes were made to item lists for InfernoPlus' Remastest mod. Based on DS-Gadget 3.0")]
 #if DEBUG
 [assembly: AssemblyConfiguration("Debug")]
 #else
@@ -14,7 +14,7 @@ using System.Runtime.InteropServices;
 #endif
 [assembly: AssemblyCompany("JKAnderson")]
 [assembly: AssemblyProduct("DS Gadget")]
-[assembly: AssemblyCopyright("Copyright © 2018-2020 Joseph Anderson")]
+[assembly: AssemblyCopyright("Copyright © 2018-2020 Joseph Anderson & © 2021-2023 Max Brod")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -36,5 +36,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("3.0.0.0")]
-[assembly: AssemblyFileVersion("3.0")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0")]

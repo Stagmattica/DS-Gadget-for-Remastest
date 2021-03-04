@@ -7,15 +7,15 @@
 1306000   1 0 Tin Crystallization Catalyst
 1307000   1 0 Demon's Catalyst
 1308000   1 0 Izalith Catalyst
-1330000   1 5 Pyromancy Flame
-1332000   1 6 Pyromancy Flame (Ascended)
+1330000   1 5 Rapid Pyromancy Flame
+1332000   1 6 Powerful Pyromancy Flame
 1360000   1 0 Talisman
 1361000   1 0 Canvas Talisman
 1362000   1 0 Thorolund Talisman
 1363000   1 0 Ivory Talisman
+1364000   1 0 Gwynevere's Talisman (Cut Content)
 1365000   1 0 Sunlight Talisman
 1366000   1 0 Darkmoon Talisman
 1367000   1 0 Velka's Talisman
-1396000   1 0 Skull Lantern
 9017000   1 0 Manus Catalyst
 9018000   1 0 Oolacile Catalyst

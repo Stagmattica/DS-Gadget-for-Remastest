@@ -1,5 +1,13 @@
     109  99 0 Eye of Death
     111  99 0 Cracked Red Eye Orb
+    201  20 0 Estus Flask
+    203  20 0 Estus Flask +1
+    205  20 0 Estus Flask +2
+    207  20 0 Estus Flask +3
+    209  20 0 Estus Flask +4
+    211  20 0 Estus Flask +5
+    213  20 0 Estus Flask +6
+    215  20 0 Estus Flask +7
     230  99 0 Elizabeth's Mushroom
     240  99 0 Divine Blessing
     260  99 0 Green Blossom

@@ -37,9 +37,6 @@ namespace DS_Gadget
             new DSItemCategory("Spell Tools", 0x00000000, Properties.Resources.SpellTools, false),
             new DSItemCategory("Upgrade Materials", 0x40000000, Properties.Resources.UpgradeMaterials, false),
             new DSItemCategory("Usable Items", 0x40000000, Properties.Resources.UsableItems, false),
-            new DSItemCategory("Mystery Weapons", 0x00000000, Properties.Resources.MysteryWeapons, true),
-            new DSItemCategory("Mystery Armor", 0x10000000, Properties.Resources.MysteryArmor, true),
-            new DSItemCategory("Mystery Goods", 0x40000000, Properties.Resources.MysteryGoods, true),
         };
     }
 }

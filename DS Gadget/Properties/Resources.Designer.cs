@@ -78,7 +78,7 @@ namespace DS_Gadget.Properties {
         ///  52000   1 2 Brigand Gauntlets
         ///  53000   1 2 Brigand Trousers
         ///  60000   1 1 Shadow Mask
-        ///  610 [rest of string was truncated]&quot;;.
+        ///  61000   1 1 Shadow G [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Armor {
             get {
@@ -143,21 +143,21 @@ namespace DS_Gadget.Properties {
         /// <summary>
         ///   Looks up a localized string similar to     109  99 0 Eye of Death
         ///    111  99 0 Cracked Red Eye Orb
+        ///    201  20 0 Estus Flask
+        ///    203  20 0 Estus Flask +1
+        ///    205  20 0 Estus Flask +2
+        ///    207  20 0 Estus Flask +3
+        ///    209  20 0 Estus Flask +4
+        ///    211  20 0 Estus Flask +5
+        ///    213  20 0 Estus Flask +6
+        ///    215  20 0 Estus Flask +7
         ///    230  99 0 Elizabeth&apos;s Mushroom
         ///    240  99 0 Divine Blessing
         ///    260  99 0 Green Blossom
         ///    270  99 0 Bloodred Moss Clump
         ///    271  99 0 Purple Moss Clump
         ///    272  99 0 Blooming Purple Moss Clump
-        ///    274  99 0 Purging Stone
-        ///    275  99 0 Egg Vermifuge
-        ///    280  99 0 Repair Powder
-        ///    290  99 0 Throwing Knife
-        ///    291  99 0 Poison Throwing Knife
-        ///    292  99 0 Firebomb
-        ///    293  99 0 Dung Pie
-        ///    294  99 0 Alluring Skull
-        ///    296  99 [rest of string was truncated]&quot;;.
+        ///    274  99 0 Purging  [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Consumables {
             get {
@@ -226,7 +226,8 @@ namespace DS_Gadget.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to     384   1 0 Peculiar Doll
+        ///   Looks up a localized string similar to     116   1 0 Black Eye Orb (Shiva)
+        ///	384   1 0 Peculiar Doll
         ///   2001   1 0 Basement Key
         ///   2002   1 0 Crest of Artorias
         ///   2003   1 0 Cage Key
@@ -240,8 +241,7 @@ namespace DS_Gadget.Properties {
         ///   2011   1 0 Big Pilgrim&apos;s Key
         ///   2012   1 0 Undead Asylum F2 East Key
         ///   2013   1 0 Key to the Seal
-        ///   2014   1 0 Key to Depths
-        ///   2016   1 0 [rest of string was truncated]&quot;;.
+        ///   2014   1 0 Key to De [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string KeyItems {
             get {
@@ -277,90 +277,12 @@ namespace DS_Gadget.Properties {
         /// 207000   1 3 Barbed Straight Sword
         /// 208000   1 1 Silver Knight Straight Sword
         /// 209000   1 1 Astora&apos;s Straight Sword
-        /// 210000   1 3 Darksword        /// [rest of string was truncated]&quot;;.
+        /// 210000   1 3 Darksword
+        /// 211000   1 1 D [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string MeleeWeapons {
             get {
                 return ResourceManager.GetString("MeleeWeapons", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to       1   1 0 [Unknown]
-        ///   1000   1 0 Shaved
-        ///   1100   1 0 Receding
-        ///   1200   1 0 Short
-        ///   1300   1 0 Swept Back
-        ///   1400   1 0 Ponytail
-        ///   1500   1 0 Wild
-        ///   1600   1 0 Parted Center
-        ///   1700   1 0 Semi-Long
-        ///   1800   1 0 Curly
-        ///   1900   1 0 Bobbed
-        ///   2000   1 0 Male 11
-        ///   2100   1 0 Male 12
-        ///   2200   1 0 Male 13
-        ///   2300   1 0 Male 14
-        ///   2400   1 0 Male 15
-        ///   2500   1 0 Male 16
-        ///   2600   1 0 Male 17
-        ///   2700   1 0 Male 18
-        ///   2800   1 0 Male 19
-        ///   2900   1 0 Male 20
-        ///   3000   1 0 Shaved
-        ///  [rest of string was truncated]&quot;;.
-        /// </summary>
-        internal static string MysteryArmor {
-            get {
-                return ResourceManager.GetString("MysteryArmor", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to     116   1 0 Black Eye Orb (Shiva)
-        ///    200   1 0 Estus Flask (Empty)
-        ///    201  20 0 Estus Flask
-        ///    202   1 0 Estus Flask+1 (Empty)
-        ///    203  20 0 Estus Flask+1
-        ///    204   1 0 Estus Flask+2 (Empty)
-        ///    205  20 0 Estus Flask+2
-        ///    206   1 0 Estus Flask+3 (Empty)
-        ///    207  20 0 Estus Flask+3
-        ///    208   1 0 Estus Flask+4 (Empty)
-        ///    209  20 0 Estus Flask+4
-        ///    210   1 0 Estus Flask+5 (Empty)
-        ///    211  20 0 Estus Flask+5
-        ///    212   1 0 Estus Flask+6 (Empty)
-        ///    213  20 0 Estus Flask+6
-        ///    214   1 0 Est [rest of string was truncated]&quot;;.
-        /// </summary>
-        internal static string MysteryGoods {
-            get {
-                return ResourceManager.GetString("MysteryGoods", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to  199000   1 0 Phantom Dagger
-        /// 299000   1 0 Phantom Straight Sword
-        /// 398000   1 0 Phantom Greatsword
-        /// 399000   1 0 Phantom Ultra Greatsword
-        /// 498000   1 0 Phantom Curved Sword
-        /// 499000   1 0 Phantom Curved Greatsword
-        /// 599000   1 0 Phantom Katana
-        /// 699000   1 0 Phantom Thrusting Sword
-        /// 798000   1 0 Phantom Axe
-        /// 799000   1 0 Phantom Greataxe
-        /// 898000   1 0 Phantom Hammer
-        /// 899000   1 0 Phantom Greathammer
-        /// 900000   1 0 Fists
-        /// 999000   1 0 Phantom Fists
-        ///1099000   1 0 Phantom Spear
-        ///1199000   1 0 Phantom [rest of string was truncated]&quot;;.
-        /// </summary>
-        internal static string MysteryWeapons {
-            get {
-                return ResourceManager.GetString("MysteryWeapons", resourceCulture);
             }
         }
         
@@ -399,7 +321,8 @@ namespace DS_Gadget.Properties {
         ///2004000 999 0 Poison Arrow
         ///2005000 999 0 Moonlight Arrow
         ///2006000 999 0 Wooden Arrow
-        ///2007000 999 0 Dragonsla [rest of string was truncated]&quot;;.
+        ///2007000 999 0 Dragonslayer Arrow
+        ///2008000 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string RangedWeapons {
             get {
@@ -422,7 +345,8 @@ namespace DS_Gadget.Properties {
         ///    111   1 0 Tiny Being&apos;s Ring
         ///    113   1 0 Cursebite Ring
         ///    114   1 0 White Seance Ring
-        ///    115   1 0 Bellowing Dragoncre [rest of string was truncated]&quot;;.
+        ///    115   1 0 Bellowing Dragoncrest Ring
+        ///    11 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Rings {
             get {
@@ -456,7 +380,8 @@ namespace DS_Gadget.Properties {
         ///1451000   1 4 Knight Shield
         ///1452000   1 4 Tower Kite Shield
         ///1453000   1 4 Grass Crest Shield
-        ///1454000   1 4 Hollow Soldier Shield        /// [rest of string was truncated]&quot;;.
+        ///1454000   1 4 Hollow Soldier Shield
+        ///1455000   1 4 B [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Shields {
             get {
@@ -465,19 +390,21 @@ namespace DS_Gadget.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to    3000  99 0 Sorcery: Soul Arrow
-        ///   3010  99 0 Sorcery: Great Soul Arrow
-        ///   3020  99 0 Sorcery: Heavy Soul Arrow
-        ///   3030  99 0 Sorcery: Great Heavy Soul Arrow
+        ///   Looks up a localized string similar to    3000  99 0 Sorcery: Soul Ray
+        ///   3010  99 0 Sorcery: Soul Arrow
+        ///   3020  99 0 Sorcery: Heavy Soul Ray
+        ///   3030  99 0 Sorcery: Heavy Soul Arrow
         ///   3040  99 0 Sorcery: Homing Soulmass
-        ///   3050  99 0 Sorcery: Homing Crystal Soulmass
+        ///   3050  99 0 Sorcery: Crystal Mass
         ///   3060  99 0 Sorcery: Soul Spear
-        ///   3070  99 0 Sorcery: Crystal Soul Spear
-        ///   3100  99 0 Sorcery: Magic Weapon
-        ///   3110  99 0 Sorcery: Great Magic Weapon
-        ///   3120  99 0 Sorcery: Crystal Magic Weapon
-        ///   3300  99 0 Sorcery: Magic Shield
-        ///   3310  99 0 Sorcer [rest of string was truncated]&quot;;.
+        ///   3070  99 0 Sorcery: Crystal Storm
+        ///   3100  99 0 Sorcery: Soul Weapon
+        ///   3110  99 0 Sorcery: Soul Dart
+        ///   3120  99 0 Sorcery: Crystalize Weapon
+        ///   3300  99 0 Sorcery: Soul Shield
+        ///   3310  99 0 Sorcery: Deflection
+        ///   3400  99 0 Sorcery: Hidden Weapon
+        ///   3410 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Spells {
             get {
@@ -495,12 +422,13 @@ namespace DS_Gadget.Properties {
         ///1306000   1 0 Tin Crystallization Catalyst
         ///1307000   1 0 Demon&apos;s Catalyst
         ///1308000   1 0 Izalith Catalyst
-        ///1330000   1 5 Pyromancy Flame
-        ///1332000   1 6 Pyromancy Flame (Ascended)
+        ///1330000   1 5 Rapid Pyromancy Flame
+        ///1332000   1 6 Powerful Pyromancy Flame
         ///1360000   1 0 Talisman
         ///1361000   1 0 Canvas Talisman
         ///1362000   1 0 Thorolund Talisman
-        ///1363000   1 0 Ivory Talis [rest of string was truncated]&quot;;.
+        ///1363000   1 0 Ivory Talisman
+        ///136400 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string SpellTools {
             get {
@@ -525,7 +453,7 @@ namespace DS_Gadget.Properties {
         ///   1030  99 0 Titanite Chunk
         ///   1040  99 0 Blue Titanite Chunk
         ///   1050  99 0 White Titanite Chunk
-        ///    [rest of string was truncated]&quot;;.
+        ///   1060  99 0 Red T [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string UpgradeMaterials {
             get {
@@ -550,7 +478,7 @@ namespace DS_Gadget.Properties {
         ///    371   1 0 Binoculars
         ///    377  99 0 Dragon Head Stone
         ///    378  99 0 Dragon Torso Stone
-        ///  [rest of string was truncated]&quot;;.
+        ///    385   1 0 Dri [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string UsableItems {
             get {

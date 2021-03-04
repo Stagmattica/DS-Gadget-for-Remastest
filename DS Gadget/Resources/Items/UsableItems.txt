@@ -20,3 +20,4 @@
     512   1 0 Very good! Carving
     513   1 0 I'm sorry Carving
     514   1 0 Help me! Carving
+1396000   1 0 Skull Lantern

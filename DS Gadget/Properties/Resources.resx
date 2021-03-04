@@ -130,15 +130,6 @@
   <data name="MeleeWeapons" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Items\MeleeWeapons.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
   </data>
-  <data name="MysteryArmor" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Items\MysteryArmor.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
-  </data>
-  <data name="MysteryGoods" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Items\MysteryGoods.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
-  </data>
-  <data name="MysteryWeapons" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Items\MysteryWeapons.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
-  </data>
   <data name="RangedWeapons" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Items\RangedWeapons.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>

@@ -1,3 +1,27 @@
+## This version of DS Gadget has been created for InfernoPlus' "Remastest" mod and contains various changes to item lists. 
+## Based on DS-Gadget 3.0 by JKAnderson.
+
+# Changelog (initial release):
+• **Removed** version indicator on main window title bar (will be added back in future releases)
+• **Removed** _Mystery Armor_, _Mystery Weapons_ and Mystery Goods_ item lists
+• **Moved** _Elite Cleric_ and _Mage Smith_ Armor sets to _Armor_ item list
+• **Moved** all _Estus Flask_ entries to _Consumables_ item list, **removed** _Empty Estus Flask_ entries
+• **Moved** _Black Eye Orb (Shiva)_ cut content item to _Key Items_ item list (functionality missing)
+• **Moved** _Escape Death_ cut content spell to _Spells_ item list (works, has identical function to Rare Ring of Sactifice, uses _Magic Revival_ death message instead of _Ring Revival_)
+• **Moved** _Gwynevere's Talisman_ cut content spell tool to _Spell Tools_ item list (does not work properly, usage in Arena+ strongly discouraged)
+• **Moved** _Skull Lantern_ from _Spell Tools_ to _Usable Items_ item list due to its placement in _Spell Tools_ item list having caused confusion
+• **Renamed** the following Magic-based Spells (located under _Spells_ item list): _Soul Arrow_ spell to _Soul Ray_, _Great Soul Arrow_ to _Soul Arrow_, _Heavy Soul Arrow_ to _Heavy Soul Ray_, _Great Heavy Soul Arrow_ to _Heavy Soul Arrow_, _Homing Crystal Soulmass_ to _Crystal Mass_, 
+_Crystal Soul Spear_ to _Crystal Storm_, _Magic Weapon_ to _Soul Weapon_, _Great Magic Weapon_ to _Soul Dart_, _Crystal Magic Weapon_ to _Crystalize Weapon_, _Magic Shield_ to _Soul Shield_, _Strong Magic Shield_ to _Deflection_, _Cast Light_ to _Light_, _Hush_ to _Conversion_, _Aural Decoy_ to _Distract_, 
+_Fall Control_ to _Soul Roots_, _Resist Curse_ to _Break Curse_ and _White Dragon Breath_ to _Crystal Ray_
+• **Renamed** the following Pyromancies (located under Spells item list): _Fire Orb_ to _Eruption_ and _Firestorm_ to _Warmth_
+• **Renamed** the following Miracles (located under Spells_ item list): _Gravelord Sword Dance_ to _Gravelord Sword Strike_, _Gravelord Greatsword Dance_ to _Gravelord Sword Strike_, _Seek Guidance_ to _Sacred Oath_, _Great Lightning Spear_ to _Lightning Storm_ and _Karmic Justice_ to _Karmic Balance_
+• **Added** _Bear_ cut content Armor set to _Armor_ item list
+• **Added** the Pyromancies _Flame Swathe_ (ID: 4120) and _Black Fissure_ (ID: 4560) to _Spells_ item list
+• **Added** the Miracles _Intervention_ (ID: 5315) and _Projected Heal_ (ID: 5330) to _Spells_ item list
+• **Added** the Spell IDs 5920, 5930, 5940 and 5959 to _Spells_ item list (as requested by InfernoPLus; these are IDs for potential future spells. Judging by the ID prefix "5", these will most likely be populated by Miracles, if at all)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+### Original readme:
 
 # DS Gadget
 A multi-purpose testing tool for Dark Souls: Prepare to Die Edition. Compatible with the current Steam and debug versions as well as, in theory, everything else.  
