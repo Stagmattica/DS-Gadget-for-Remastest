@@ -2,8 +2,8 @@
 ## Based on DS-Gadget 3.0 by JKAnderson.
 
 # Changelog (initial release):
-* **Removed** version indicator on main window title bar (will be added back in future releases)
-* **Removed** _Mystery Armor_, _Mystery Weapons_ and Mystery Goods_ item lists
+~~* **Removed** version indicator on main window title bar (will be added back in future releases)~~
+* **Removed** _Mystery Armor_, _Mystery Weapons_ and _Mystery Goods_ item lists
 * **Moved** _Elite Cleric_ and _Mage Smith_ Armor sets to _Armor_ item list
 * **Moved** all _Estus Flask_ entries to _Consumables_ item list, **removed** _Empty Estus Flask_ entries
 * **Moved** _Black Eye Orb (Shiva)_ cut content item to _Key Items_ item list (functionality missing)
