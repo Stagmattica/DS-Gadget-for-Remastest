@@ -56,7 +56,7 @@
    5050  99 0 Miracle: Bountiful Sunlight
    5100  99 0 Miracle: Gravelord Sword Strike
    5110  99 0 Miracle: Gravelord Sword Dance
-   5200  99 0 Miracle: Escape Death (Cut Content, do not use in Arena+)
+   5200  99 0 Miracle: Escape Death (Cut Content)
    5210  99 0 Miracle: Homeward
    5300  99 0 Miracle: Force
    5310  99 0 Miracle: Wrath of the Gods
@@ -66,7 +66,7 @@
    5400  99 0 Miracle: Sacred Oath
    5500  99 0 Miracle: Lightning Spear
    5510  99 0 Miracle: Lightning Storm
-   5520  99 0 Miracle: Sunlight Spear
+   5520  99 0 Miracle: Sunlight Slam
    5600  99 0 Miracle: Magic Barrier
    5610  99 0 Miracle: Great Magic Barrier
    5700  99 0 Miracle: Karmic Balance

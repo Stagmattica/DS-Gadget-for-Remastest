@@ -1,6 +1,16 @@
 # This version of DS Gadget has been created for InfernoPlus' "Remastest" mod and contains various changes to item lists. 
 # Based on DS-Gadget 3.0 by JKAnderson.
 
+Changelog (Prerelease 1.1):
+• Fixed title bar version counter
+• Fixed a target mismatch between the Bonfires "Ash Lake (Bonfire)" and "Ash Lake (Stone Dragon)"
+• Fixed** a bug that caused the "Skull Lantern" item to not spawn for some players
+• Renamed** the unused "Gwynevere Talisman" and "Miracle: Escape Death" descriptors
+• Renamed** "Black Eye Orb" to "Black Eye Orb (Target: Lautrec of Carim)" and "Black Eye Orb (Shiva)" to "Black Eye Orb (Target: Shiva of the East) (Cut Content)"
+• Renamed** "Sunlight Spear" spell to "Sunlight Slam"
+• Moved** "Black Eye Orb (Target: Shiva of the East) (Cut Content)" from "Key Items" to "Usable Items_
+
+
 Changelog (initial release):
 • Removed version indicator on main window title bar (will be added back in future releases)
 • Removed "Mystery Armor", "Mystery Weapons" and "Mystery Goods" item lists
