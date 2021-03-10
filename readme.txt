@@ -1,6 +1,11 @@
 # This version of DS Gadget has been created for InfernoPlus' "Remastest" mod and contains various changes to item lists. 
 # Based on DS-Gadget 3.0 by JKAnderson.
 
+Changelog (Prerelease 1.1.1):
+• Bug fixes
+• Some changes from Prerelease 1.1 did not function properly: Rename of "Black Eye Orb(s)" did not function properly due to character limit, name shortened; Fix of "Skull Lantern bug" not working due to restrictions within item category definitions. "Skull Lantern" has been moved to "Melee Weapons" item category.
+
+
 Changelog (Prerelease 1.1):
 • Fixed title bar version counter
 • Fixed a target mismatch between the Bonfires "Ash Lake (Bonfire)" and "Ash Lake (Stone Dragon)"
