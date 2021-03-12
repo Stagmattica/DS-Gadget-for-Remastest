@@ -4,6 +4,8 @@
     103   1 0 Black Separation Crystal
     106   1 0 Orange Guidance Soapstone
     108   1 0 Book of the Guilty
+    109  99 0 Eye of Death
+    111  99 0 Cracked Red Eye Orb
     112   1 0 Servant Roster
     113   1 0 Blue Eye Orb
     114   1 0 Dragon Eye

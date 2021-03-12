@@ -1,6 +1,12 @@
 ## This version of DS Gadget has been created for InfernoPlus' "Remastest" mod and contains various changes to item lists. 
 ## Based on DS-Gadget 3.0 by JKAnderson.
 
+# Changelog (Prerelease 1.1.2):
+* Various bug fixes
+* **Removed** the _Master Key_ Key item, due to it having lost its purpose.
+* **Moved** _Eye of Death_ and _Cracked Red Eye Orb_ consumables to _Usable Items_ tab for consistency.
+* **Renamed** the _Cat Covenant Ring_ to _Bandit Ring_.
+
 # Changelog (Prerelease 1.1.1):
 * Bug fixes
 * Some changes from _Prerelease 1.1_ did not function properly: **Rename** of _Black Eye Orb(s)_ did not function properly due to character limit, name shortened; **Fix** of _Skull Lantern bug_ not working due to restrictions within item category definitions. _Skull Lantern_ has been **moved** to _Melee Weapons_ item category.

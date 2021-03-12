@@ -1,5 +1,3 @@
-    109  99 0 Eye of Death
-    111  99 0 Cracked Red Eye Orb
     201  20 0 Estus Flask
     203  20 0 Estus Flask +1
     205  20 0 Estus Flask +2

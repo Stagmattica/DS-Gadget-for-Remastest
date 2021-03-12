@@ -20,7 +20,6 @@
    2020   1 0 Archive Prison Extra Key
    2021   1 0 Residence Key
    2022   1 0 Crest Key
-   2100   1 0 Master Key
    2500   1 0 Lord Soul (Nito)
    2501   1 0 Lord Soul (Bed of Chaos)
    2502   1 0 Bequeathed Lord Soul Shard (Four Kings)
