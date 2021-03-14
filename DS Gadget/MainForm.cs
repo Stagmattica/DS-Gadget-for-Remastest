@@ -31,7 +31,8 @@ namespace DS_Gadget
             {
                 lblProcess.Text = Hook.ID.ToString();
                 lblVersion.Text = Hook.Version;
-                lblVersion.ForeColor = Hook.AOBScanSucceeded ? Color.DarkGreen : Color.DarkOrange;
+                // lblVersion.ForeColor = Hook.AOBScanSucceeded ? Color.DarkGreen : Color.DarkOrange; Removed to stop users from being confused by version issues. Should be reimplemented in the future after debugging where the AOB scan is failing.
+                lblVersion.ForeColor = Color.DarkGreen; // Orange is forced to on for reasons mentioned above.
             }));
         }
 
@@ -51,7 +52,7 @@ namespace DS_Gadget
         private async void MainForm_Load(object sender, EventArgs e)
         {
             Location = settings.WindowLocation;
-            Text = "DS-Gadget for Remastest " + System.Windows.Forms.Application.ProductVersion;
+            Text = "DS-Gadget for Remastest pre-" + System.Windows.Forms.Application.ProductVersion;
             EnableTabs(false);
             InitAllTabs();
 

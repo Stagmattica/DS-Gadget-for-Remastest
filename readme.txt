@@ -1,19 +1,23 @@
 # This version of DS Gadget has been created for InfernoPlus' "Remastest" mod and contains various changes to item lists. 
 # Based on DS-Gadget 3.0 by JKAnderson.
 
-Changelog (Prerelease 1.1.2):
+Changelog (Prerelease 0.5):
+• Disabled the version indicator turning orange to avoid confusion.
+
+
+Changelog (Prerelease 0.4):
 • Various bug fixes
 • Removed the "Master Key" Key item, due to it having lost its purpose.
 • Moved "Eye of Death" and "Cracked Red Eye Orb" consumables to "Usable Items" tab for consistency across invasion-based items.
 • Renamed the "Cat Covenant Ring" to "Bandit Ring".
 
 
-Changelog (Prerelease 1.1.1):
+Changelog (Prerelease 0.3):
 • Bug fixes
 • Some changes from Prerelease 1.1 did not function properly: Rename of "Black Eye Orb(s)" did not function properly due to character limit, name shortened; Fix of "Skull Lantern bug" not working due to restrictions within item category definitions. "Skull Lantern" has been moved to "Melee Weapons" item category.
 
 
-Changelog (Prerelease 1.1):
+Changelog (Prerelease 0.2):
 • Fixed title bar version counter
 • Fixed a target mismatch between the Bonfires "Ash Lake (Bonfire)" and "Ash Lake (Stone Dragon)"
 • Fixed a bug that caused the "Skull Lantern" item to not spawn for some players
@@ -23,7 +27,7 @@ Changelog (Prerelease 1.1):
 • Moved "Black Eye Orb (Target: Shiva of the East) (Cut Content)" from "Key Items" to "Usable Items_
 
 
-Changelog (initial release):
+Changelog (Prerelease 0.1):
 • Removed version indicator on main window title bar (will be added back in future releases)
 • Removed "Mystery Armor", "Mystery Weapons" and "Mystery Goods" item lists
 • Moved "Elite Cleric" and "Mage Smith" Armor sets to "Armor" item list
