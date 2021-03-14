@@ -1,7 +1,7 @@
 ## This version of DS Gadget has been created for InfernoPlus' "Remastest" mod and contains various changes to item lists. 
 ## Based on DS-Gadget 3.0 by JKAnderson.
 
-# **Download the latest Release here:** https://github.com/Stagmattica/DS-Gadget-for-Remastest/releases
+### **Download the latest Release here:** https://github.com/Stagmattica/DS-Gadget-for-Remastest/releases
 
 # Changelog (Prerelease 1.1.2):
 * Various bug fixes
